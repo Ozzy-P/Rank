@@ -11,8 +11,7 @@ Data.Groups = {
 		["Orca Cafe"]         = { Id=10485506, Mode = "Application"  ,   API = "QjlFNWRKZTZCUlVOUWRveHVjUk4rTkIrN0R3bU1aa0c2ZnF4S0VsTVlOenFWUFRLVTY2UERscVpMRVYzVk55cEV5OFRxalNVdElVPXx0ZHNQc2w0KzZVa0h5YWwv", Name = "Orca Café",                     GameId = 6783988896},
 		["OQ6"]               = { Id=3090269 , Mode = "Rank Purchase",   API = "UXNmV1IzWmlieHVFWHBRc2p6bTF5UzBqdDJkbURjd0FGWkZudVNpQWpwVkdObjBMcDVvZVBseitpaUp5NHUwME5oSlFCQ2Nmc2NJPXxOUWZqZEs0cnJUa29tMkJU", Name = "OQ6 Incorporated",              GameId = 0},
 		["Sugary Cafe"]       = { Id=5743036 , Mode = "Rank Purchase",   API = "c1FibDJMcmVGb3JodHRKQmNCVkcxeUkzUUJNNFZwb3FoWGoraUNTS3JROUNkQ3UvYU4reHlCTnhLcGJhQ0tDYitDdjNFQ3NnL1lJPXw2YjVyaHN6MXpLOFZNajhy", Name = "Sugary Cafe",                   GameId = 0},
-		["Dentist Frenzy"]    = { Id=9116698 , Mode = "Application"  ,   API = "VUh2ZTk5MmFGOURZb2pqMUFZYlJaN29adHdLaUFCVm5RTjA1SEFmOUdnWCtab1pDTjlyZWg4NFUzbHlEdlJmdi9FTGdmUTJib0V3PXxCTzhZQ3FVR0hnTWM0Y0lO
-", Name = "Dentist Frenzy",                GameId = 0},
+		["Dentist Frenzy"]    = { Id=9116698 , Mode = "Application"  ,   API = "VUh2ZTk5MmFGOURZb2pqMUFZYlJaN29adHdLaUFCVm5RTjA1SEFmOUdnWCtab1pDTjlyZWg4NFUzbHlEdlJmdi9FTGdmUTJib0V3PXxCTzhZQ3FVR0hnTWM0Y0lO", Name = "Dentist Frenzy",                GameId = 0},
 }
 
 return Data
