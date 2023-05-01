@@ -6,4 +6,4 @@ Pretty basic if you ask me. Just don't throw the whole bee movie script in it or
 
 
 # Updates
-API key hash rotation #2
+API key hash retirement
